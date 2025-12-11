@@ -7,7 +7,7 @@ Currently, the main focus is the `subagents` skill, which teaches Codex how to s
 
 ### Demo
 
-[Watch the demo on YouTube](https://www.youtube.com/watch?v=Xf0xFpvaIcY)
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=zOaOwiatuxE)
 
 ### What’s in this repo
 
